@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/1.png</file>
+        <file>res/2.png</file>
+        <file>res/3.png</file>
+        <file>res/4.png</file>
+        <file>res/5.png</file>
+        <file>res/6.png</file>
+        <file>res/are~1.wav</file>
+        <file>res/back.png</file>
+        <file>res/Icon.png</file>
+        <file>res/magic.wav</file>
+        <file>res/matchright.png</file>
+        <file>res/Money.png</file>
+        <file>res/phone1.png</file>
+        <file>res/phone2.png</file>
+        <file>res/phone3.png</file>
+        <file>res/phone4.png</file>
+        <file>res/phone5.png</file>
+        <file>res/return.png</file>
+        <file>res/right2.png</file>
+        <file>res/right3.png</file>
+        <file>res/solidHeart.png</file>
+        <file>res/timer.png</file>
+        <file>res/Wrong1.png</file>
+        <file>res/wrong2.png</file>
+    </qresource>
+</RCC>
