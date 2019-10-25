@@ -2,7 +2,7 @@
 A random choosing software
 Coding by using QtCreator
 
-1.First of all,you need open the software and choose the button named"配置"<br>
+1.First of all,you need to open the software and choose the button named"配置"<br>
 2.Then choose one of the groups<br>
 3.Enter the name you need into these labels<br>
 4.Return back to the main scene<br>
