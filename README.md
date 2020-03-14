@@ -1,6 +1,6 @@
 # QtChoose
 A random choosing software
-Coding by using QtCreator
+Coded by using QtCreator
 
 1.First of all,you need to open the software and click the button named"配置"<br>
 2.Then choose one of these groups in this scene<br>
